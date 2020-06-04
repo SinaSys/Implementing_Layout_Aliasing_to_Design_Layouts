@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Implementing_Layout_Aliasing_to_Design_Layouts.iml" filepath="$PROJECT_DIR$/Implementing_Layout_Aliasing_to_Design_Layouts.iml" group="Implementing_Layout_Aliasing_to_Design_Layouts" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Implementing_Layout_Aliasing_to_Design_Layouts/app" />
+    </modules>
+  </component>
+</project>
